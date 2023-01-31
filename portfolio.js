@@ -1,31 +1,31 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Shiba Yashihiro",
-	title: "Hi all, I'm Shiba. こんにちは、シバです",
+	name: "Jack Lin",
+	title: "Hi all, I'm Jack Lin.",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Laravel, Yii, CodeIgniter, WordPress, Magento, Drupal, Joomla, Angular, React.js and Vue.js.",
+		"I'm a Senior Full Stack web developer. I'm a senior Full-Stack Web developer who has over 9 years of extensive experience in both of front-end and back-end development.",
 	resumeLink:
 		"https://drive.google.com/file/d/1KbCV08ZdwJW7NnRSJWujBJcVdJirxzok/view?usp=share_link",
 };
 
 export const openSource = {
-	githubUserName: "ShibaYashihiro",
+	githubUserName: "seniordev316",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://app.joinrise.co/professional/shibayashihirobm7av",
-	linkedin: "https://shibayashihiro.vercel.app",
-	github: "https://github.com/ShibaYashihiro",
-	instagram: "https://shibayashihiro.vercel.app",
-	facebook: "https://shibayashihiro.vercel.app",
-	twitter: "https://shibayashihiro.vercel.app",
+	url: "https://app.joinrise.co/professional/seniordev316bm7av",
+	linkedin: "https://www.linkedin.com/in/jack-lin-9b8755251",
+	github: "https://github.com/seniordev316",
+	instagram: "https://seniordev316.vercel.app",
+	facebook: "https://seniordev316.vercel.app",
+	twitter: "https://seniordev316.vercel.app",
 };
 
 export const skillsSection = {
-	title: "What I do",
+	title: "What can I do",
 	subTitle:
 		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
 	data: [
@@ -307,16 +307,16 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "Catering Spares (Ecommerce)",
-		desc: "This Site built with magento2.x, updated new latest version.",
-		github: "https://github.com/ShibaYashihiro/Caterinspares_magento2.4.3_p3",
-		link: "https://www.cateringspares.com.au",
+		name: "Wagyuswap",
+		desc: "A Dex site using Blockchain",
+		github: "https://github.com/seniordev316/lottery-frontend.git",
+		link: "https://wagyuswap.app",
 	},
 	{
-		name: "Seravo (WordPress)",
-		desc: "A WordPress project layout for use with Git, Composer and Nginx. It also includes a config a Vagrant box and Docker image for local development.",
-		github: "https://github.com/ShibaYashihiro/Seravo_WP",
-		link: "https://seravo.com/en/",
+		name: "4winners Betting",
+		desc: "A React project layout for use with Git, Composer and Nginx. It also includes a config a Vagrant box and Docker image for local development.",
+		github: "https://github.com/seniordev316/4winner_prod.git",
+		link: "https://4winners.bet",
 	},
 ];
 
@@ -329,7 +329,7 @@ export const feedbacks = [
 	{
 		name: "Gibran S.",
 		feedback:
-			"It was extremely nice working with Shiba. The communication was easy and clear, the work was high quality, and done within time & budget. Highly recommended. Will hire again!",
+			"It was extremely nice working with Jack. The communication was easy and clear, the work was high quality, and done within time & budget. Highly recommended. Will hire again!",
 	},
 ];
 
@@ -338,19 +338,23 @@ export const showContactUs = true;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-	title: "Shiba Yashihiro",
+	title: "Jack Lin",
 	description:
-		"A passionate Full Stack Web Developer.",
-	author: "Shiba Yashihiro",
+		"A Full Stack Web Engineer.",
+	author: "Jack Lin",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-	url: "https://shibayashihiro.vercel.app",
+	url: "https://seniordev316.vercel.app",
 	keywords: [
-		"Shiba",
-		"Shiba Yashihiro",
-		"@devstack777",
-		"devstack777",
-		"Portfolio",
-		"Shiba Portfolio ",
-		"Shiba Yashihiro Portfolio",
+		"Jack Lin",
+		"jack lin",
+		"jacklin",
+		"seniordev",
+		"seniordev316",
+		"top developer ",
+		"top react developer",
+		"high skill developer",
+		"react developer",
+		"vue developer",
+		"laravel developer",
 	],
 }
