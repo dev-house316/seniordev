@@ -229,7 +229,7 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "84", //Insert relative proficiency in percentage
+		progressPercentage: "95", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
@@ -237,18 +237,18 @@ export const SkillBars = [
 	},
 	{
 		Stack: "WordPress & Magento",
-		progressPercentage: "93",
+		progressPercentage: "85",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "89",
+		progressPercentage: "95",
 	},
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "Juno College",
-		subHeader: "Master of Science in Computer Science",
+		schoolName: "Universiti Kuala Lumpur",
+		subHeader: "Bachelor of Computer Science, Computer Science",
 		duration: "April 2012 - July 2015",
 		desc: "Relevant Coursework:",
 		grade: "Grade A",
