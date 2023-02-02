@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm a Senior Full Stack web developer. I'm a senior Full-Stack Web developer who has over 9 years of extensive experience in both of front-end and back-end development.",
 	resumeLink:
-		"https://drive.google.com/file/d/1KbCV08ZdwJW7NnRSJWujBJcVdJirxzok/view?usp=share_link",
+		"https://drive.google.com/file/d/1N1kEPK9lGcuT_VkMPccSZpcbiCKh5eEP/view?usp=sharing",
 };
 
 export const openSource = {
